@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-term
-: definition
-: another definition
+
 
 <!--
 **markandre13/markandre13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+term
+: definition
+: another definition
 
 Here are some ideas to get you started:
 
