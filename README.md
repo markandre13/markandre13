@@ -5,7 +5,7 @@ If you wanna know the roots of _Agile_, read
 * Introduction to the Smalltalk-80 System; Adele Goldberg; [Byte Magazine Volume 06 Number 08 - Smalltalk](https://archive.org/details/byte-magazine-1981-08)
 * Personal Dynamic Media; Alan Kay, Adele Goldberg; [IEEE Computer, Volume 10, Issue 3, March 1977](https://ieeexplore.ieee.org/document/1646405)
 
-it means you can do pair programming with your user. If you can't do that, you have the wrong tools.
+It means you can do pair programming with your user. If you can't do that, you have the wrong tools.
 
 Another root of _Agile_ is _Lean_, which means making work visible to improve it.
 
