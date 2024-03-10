@@ -2,7 +2,7 @@
 
 I am currently building two applications:
 
-* [makehuman.js](https://github.com/markandre13/makehuman.js) a variant of [Makehuman 1.2.0](http://www.makehumancommunity.org) with some features missing and some (being) added, like motion capturing.
+* [makehuman.js](https://github.com/markandre13/makehuman.js) a WebApp of [Makehuman 1.2.0](http://www.makehumancommunity.org) with some features missing and some (being) added, like motion capturing provided by a [C++ backend](https://github.com/markandre13/makehuman.js-backend).
 
   I also did a WebApp of [Makehuman 0.9.1-rc1a](https://github.com/markandre13/mh091rc1a.js) which used morphs for posing, including muscles.
   
