@@ -3,6 +3,9 @@
 I am currently building two applications:
 
 * [makehuman.js](https://github.com/markandre13/makehuman.js) a variant of [Makehuman](http://www.makehumancommunity.org) with some features missing and some (being) added, like motion capturing.
+
+  I also did a WebApp of [Makehuman 0.9.1-rc1a](https://github.com/markandre13/mh091rc1a.js) which used morphs for posing, including muscles.
+  
 * [workflow](https://github.com/markandre13/workflow) a 2d vector graphics program
 
 and the tools to build them with
