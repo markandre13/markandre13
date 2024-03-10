@@ -9,7 +9,7 @@ If you wanna know the roots of _Agile_, read
 
 It means you can do pair programming with your users, POs, UX, Ops, .... If you can't do that, you have the wrong tools. 
 
-Another root of _Agile_ is _Lean_, which means making work visible to improve it (It does NOT mean to strip things away from it to save money!) If you wanna know how to improve read about the [Toyota Kata](https://public.websites.umich.edu/~mrother/Homepage.html).
+Another root of _Agile_ is _Lean_, which means making work visible to improve it (It does NOT mean to strip things away from it to save money!) If you wanna know how to improve, read about the [Toyota Kata](https://public.websites.umich.edu/~mrother/Homepage.html).
 
 You are welcome. 😁
 
